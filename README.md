@@ -2,5 +2,4 @@
 storage and repository
 
 
-im new to coding.
-i find oreos delicious. 
+I've started studying JavaScript and I will be posting my projects here in GitHub.
